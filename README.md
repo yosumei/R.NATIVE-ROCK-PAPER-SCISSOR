@@ -1,3 +1,11 @@
+
+![ScreenRecording2024-02-22at16 13 07-ezgif com-video-to-gif-converter](https://github.com/yosumei/R.NATIVE-ROCK-PAPER-SCISSOR/assets/147663700/55f41532-d319-415d-bc5f-6dce43da2493)
+
+
+
+
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
